@@ -14,7 +14,7 @@ A console-based **Stone, Paper, Scissor** game written in C++. Play against the 
 git clone https://github.com/AbdulrahmanFrontend/stone-paper-scissor-cpp.git
 ```
 2. Open in Visual Studio:
-    - Double-click Bank-CLI-App.sln, OR
+    - Double-click stone-paper-scissor-cpp.sln, OR
     - In VS: File → Open → Project/Solution → Select .sln file
 3. Build & Run:
     - Press Ctrl + F5 (Run without debug) or F5 (Debug mode)
